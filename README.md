@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohit1977/Java_Dsa/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
