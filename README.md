@@ -37,4 +37,9 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
