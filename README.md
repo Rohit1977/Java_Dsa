@@ -37,6 +37,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Rohit1977/Java_Dsa/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Rohit1977/Java_Dsa/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
