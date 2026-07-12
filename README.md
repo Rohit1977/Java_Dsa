@@ -56,4 +56,16 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Rohit1977/Java_Dsa/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
