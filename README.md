@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rohit1977/Java_Dsa/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Rohit1977/Java_Dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rohit1977/Java_Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rohit1977/Java_Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohit1977/Java_Dsa/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rohit1977/Java_Dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rohit1977/Java_Dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
 ## Bit Manipulation
