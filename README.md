@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit1977/Java_Dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rohit1977/Java_Dsa/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rohit1977/Java_Dsa/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rohit1977/Java_Dsa/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit1977/Java_Dsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rohit1977/Java_Dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rohit1977/Java_Dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rohit1977/Java_Dsa/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
