@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Rohit1977/Java_Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rohit1977/Java_Dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohit1977/Java_Dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Rohit1977/Java_Dsa/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohit1977/Java_Dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Rohit1977/Java_Dsa/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohit1977/Java_Dsa/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -27,11 +28,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohit1977/Java_Dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Rohit1977/Java_Dsa/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rohit1977/Java_Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rohit1977/Java_Dsa/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Rohit1977/Java_Dsa/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -71,11 +74,13 @@
 | [0066-plus-one](https://github.com/Rohit1977/Java_Dsa/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rohit1977/Java_Dsa/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rohit1977/Java_Dsa/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Rohit1977/Java_Dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Rohit1977/Java_Dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Rohit1977/Java_Dsa/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -84,4 +89,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rohit1977/Java_Dsa/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Rohit1977/Java_Dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
